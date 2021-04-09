@@ -6,7 +6,7 @@
 + git config --global user.name "Your Name“
 ### git 로컬 저장소 만들기 
  1. 로컬 컴퓨터 작업 디렉토리 생성  
- 2. 2. 로컬 컴퓨터 버전 관리 초기화 : git init
+ 2. 로컬 컴퓨터 버전 관리 초기화 : git init
    + 생성된 작업 디렉토리로 이동하여 명령실행
    + git 디렉토리 용어
      + 작업트리(working tree) : 파일을 수정, 저장 등의 작업을 진행하는 디렉토리
@@ -27,4 +27,7 @@
      + n 번째 최신 커밋 취소
      + git reset —hard 복사한 커밋 해시
 ## 원격저장소 가져오기
-+git clone 원격저장소 주소
++ git clone 원격저장소 주소
+## branch 
++ branch 만들기 : git branch 브랜치 명
++ branch 변경 : git checkout 브랜치명 
