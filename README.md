@@ -31,3 +31,5 @@
    + 최신 커밋된 파일 되돌리기 : git reset HEAD~n 
      + n 번째 최신 커밋 취소
      + git reset —hard 복사한 커밋 해시
+## 원격저장소 가져오기
++git clone 원격저장소 주소
