@@ -5,8 +5,8 @@
 + git config --global user.email "you@example.com"
 + git config --global user.name "Your Name“
 ### git 로컬 저장소 만들기 
-<strong>1. 로컬 컴퓨터 작업 디렉토리 생성   </strong>
- 2. 로컬 컴퓨터 버전 관리 초기화 : git init
+<strong>1. 로컬 컴퓨터 작업 디렉토리 생성 </strong>
+<strong>2. 로컬 컴퓨터 버전 관리 초기화 : git init </strong>
    + 생성된 작업 디렉토리로 이동하여 명령실행
    + git 디렉토리 용어
      + 작업트리(working tree) : 파일을 수정, 저장 등의 작업을 진행하는 디렉토리
