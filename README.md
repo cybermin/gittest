@@ -31,3 +31,7 @@
 ## branch 
 + branch 만들기 : git branch 브랜치 명
 + branch 변경 : git checkout 브랜치명 
+
+
+# 포크(fork) 작업참조 사이트 : 포크작업
+https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html
